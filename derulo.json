@@ -1,0 +1,480 @@
+{
+  "BotToken": "NDgxNDEzMzMxNTUxMjU2NTk3.D1SMSQ.Ue24NbQYh8Uvyr2T2Q2BUASlzSE",
+  "GeneralManagers": {
+    "1": {
+      "Team": {
+        "ShortName": "MTL",
+        "FullName": "Montreal Canadiens",
+        "CityName": "Montreal",
+        "TeamName": "Canadiens",
+        "AlternativeName": "Habs",
+        "AlternativeName2": "Habitants",
+        "AlternativeName3": "Canadians"
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "2": {
+      "Team": {
+        "ShortName": "CGY",
+        "FullName": "Calgary Flames",
+        "CityName": "Calgary",
+        "TeamName": "Flames",
+        "AlternativeName": "Scorch",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "3": {
+      "Team": {
+        "ShortName": "CBJ",
+        "FullName": "Columbus Blue Jackets",
+        "CityName": "Columbus",
+        "TeamName": "Blue Jackets",
+        "AlternativeName": "Jackets",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "4": {
+      "Team": {
+        "ShortName": "DAL",
+        "FullName": "Dallas Stars",
+        "CityName": "Dallas",
+        "TeamName": "Stars",
+        "AlternativeName": "Minnesota North Stars",
+        "AlternativeName2": "North Stars",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "5": {
+      "Team": {
+        "ShortName": "NSH",
+        "FullName": "Nashville Predators",
+        "CityName": "Nashville",
+        "TeamName": "Predators",
+        "AlternativeName": "Preds",
+        "AlternativeName2": "Smashville",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "6": {
+      "Team": {
+        "ShortName": "OTT",
+        "FullName": "Ottawa Senators",
+        "CityName": "Ottawa",
+        "TeamName": "Senators",
+        "AlternativeName": "Sens",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "7": {
+      "Team": {
+        "ShortName": "STL",
+        "FullName": "St. Louis Blues",
+        "CityName": "St. Louis",
+        "TeamName": "Blues",
+        "AlternativeName": "St Louis Blues",
+        "AlternativeName2": "St Louis",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "8": {
+      "Team": {
+        "ShortName": "BUF",
+        "FullName": "Buffalo Sabres",
+        "CityName": "Buffalo",
+        "TeamName": "Sabres",
+        "AlternativeName": "Blades",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "9": {
+      "Team": {
+        "ShortName": "VAN",
+        "FullName": "Vancouver Canucks",
+        "CityName": "Vancouver",
+        "TeamName": "Canucks",
+        "AlternativeName": "Nucks",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "10": {
+      "Team": {
+        "ShortName": "PHI",
+        "FullName": "Philadelphia Flyers",
+        "CityName": "Philadelphia",
+        "TeamName": "Flyers",
+        "AlternativeName": "Broad Street Bullies",
+        "AlternativeName2": "Bullies",
+        "AlternativeName3": "Gritty"
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "11": {
+      "Team": {
+        "ShortName": "FLA",
+        "FullName": "Florida Panthers",
+        "CityName": "Florida",
+        "TeamName": "Panthers",
+        "AlternativeName": "Cats",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "12": {
+      "Team": {
+        "ShortName": "NYI",
+        "FullName": "New York Islanders",
+        "CityName": "NY Islanders",
+        "TeamName": "Islanders",
+        "AlternativeName": "Isles",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "13": {
+      "Team": {
+        "ShortName": "COL",
+        "FullName": "Colorado Avalanche",
+        "CityName": "Colorado",
+        "TeamName": "Avalanche",
+        "AlternativeName": "Avs",
+        "AlternativeName2": "Nordiques",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "14": {
+      "Team": {
+        "ShortName": "ARI",
+        "FullName": "Arizona Coyotes",
+        "CityName": "Arizona",
+        "TeamName": "Coyotes",
+        "AlternativeName": "Phoenix Coyotes",
+        "AlternativeName2": "Yotes",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "15": {
+      "Team": {
+        "ShortName": "TOR",
+        "FullName": "Toronto Maple Leafs",
+        "CityName": "Toronto",
+        "TeamName": "Maple Leafs",
+        "AlternativeName": "Leafs",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "16": {
+      "Team": {
+        "ShortName": "TBL",
+        "FullName": "Tampa Bay Lightning",
+        "CityName": "Tampa Bay",
+        "TeamName": "Lightning",
+        "AlternativeName": "Bolts",
+        "AlternativeName2": "Tampa",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "17": {
+      "Team": {
+        "ShortName": "CAR",
+        "FullName": "Carolina Hurricanes",
+        "CityName": "Carolina",
+        "TeamName": "Hurricanes",
+        "AlternativeName": "Canes",
+        "AlternativeName2": "Hartford Whalers",
+        "AlternativeName3": "Whalers"
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "18": {
+      "Team": {
+        "ShortName": "SJS",
+        "FullName": "San Jose Sharks",
+        "CityName": "San Jose",
+        "TeamName": "Sharks",
+        "AlternativeName": null,
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "19": {
+      "Team": {
+        "ShortName": "NYR",
+        "FullName": "New York Rangers",
+        "CityName": "NY Rangers",
+        "TeamName": "Rangers",
+        "AlternativeName": "Rags",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "20": {
+      "Team": {
+        "ShortName": "CHI",
+        "FullName": "Chicago Blackhawks",
+        "CityName": "Chicago",
+        "TeamName": "Blackhawks",
+        "AlternativeName": "Hawks",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "21": {
+      "Team": {
+        "ShortName": "ANA",
+        "FullName": "Anaheim Ducks",
+        "CityName": "Anaheim",
+        "TeamName": "Ducks",
+        "AlternativeName": "Mighty Ducks of Anaheim",
+        "AlternativeName2": "Mighty Ducks",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "22": {
+      "Team": {
+        "ShortName": "LAK",
+        "FullName": "Los Angeles Kings",
+        "CityName": "Los Angeles",
+        "TeamName": "Kings",
+        "AlternativeName": null,
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "23": {
+      "Team": {
+        "ShortName": "EDM",
+        "FullName": "Edmonton Oilers",
+        "CityName": "Edmonton",
+        "TeamName": "Oilers",
+        "AlternativeName": "Oil",
+        "AlternativeName2": "Oils",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "24": {
+      "Team": {
+        "ShortName": "DET",
+        "FullName": "Detroit Red Wings",
+        "CityName": "Detroit",
+        "TeamName": "Red Wings",
+        "AlternativeName": "Wings",
+        "AlternativeName2": "Cougars",
+        "AlternativeName3": "Falcons"
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "25": {
+      "Team": {
+        "ShortName": "NJD",
+        "FullName": "New Jersey Devils",
+        "CityName": "New Jersey",
+        "TeamName": "Devils",
+        "AlternativeName": "Jersey",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "26": {
+      "Team": {
+        "ShortName": "MIN",
+        "FullName": "Minnesota Wild",
+        "CityName": "Minnesota",
+        "TeamName": "Wild",
+        "AlternativeName": "Mild",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "27": {
+      "Team": {
+        "ShortName": "WSH",
+        "FullName": "Washington Capitals",
+        "CityName": "Washington",
+        "TeamName": "Capitals",
+        "AlternativeName": "Caps",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "28": {
+      "Team": {
+        "ShortName": "BOS",
+        "FullName": "Boston Bruins",
+        "CityName": "Boston",
+        "TeamName": "Bruins",
+        "AlternativeName": "Bears",
+        "AlternativeName2": "Big Bad Bruins",
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "29": {
+      "Team": {
+        "ShortName": "PIT",
+        "FullName": "Pittsburgh Penguins",
+        "CityName": "Pittsburgh",
+        "TeamName": "Penguins",
+        "AlternativeName": "Pens",
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    },
+    "30": {
+      "Team": {
+        "ShortName": "WPG",
+        "FullName": "Winnipeg Jets",
+        "CityName": "Winnipeg",
+        "TeamName": "Jets",
+        "AlternativeName": null,
+        "AlternativeName2": null,
+        "AlternativeName3": null
+      },
+      "DiscordId": null,
+      "WaitingDiscordId": null
+    }
+  },
+  "VncRoleName": null,
+  "HostPosition": 14,
+  "DeleteSaveRequest": true,
+  "MillisecondsToSave": 3500,
+  "SaveAnnounceChannel": "486277641914023943",
+  "BotRequestChannel": "481414721308721184",
+  "SaveLocation": "C:\\Users\\Alain\\Documents\\Sports Interactive\\EHM\\games",
+  "GameLocation": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eastside Hockey Manager",
+  "SavePrefix": "TEST",
+  "RollingSaveAmount": 3,
+  "DefaultSimLength": 2,
+  "ClickPositions": {
+    "Save game OK": {
+      "X": 1168,
+      "Y": 842
+    },
+    "Save game yes": {
+      "X": 1021,
+      "Y": 612
+    },
+    "Scroll to middle": {
+      "X": 1898,
+      "Y": 327
+    },
+    "Scroll to end": {
+      "X": 1898,
+      "Y": 431
+    },
+    "Status top left": {
+      "X": 1415,
+      "Y": 181
+    },
+    "Status bottom right": {
+      "X": 1584,
+      "Y": 200
+    },
+    "Last status": {
+      "X": 1413,
+      "Y": 431
+    },
+    "GM name": {
+      "X": 311,
+      "Y": 17
+    },
+    "Go on vacation": {
+      "X": 312,
+      "Y": 393
+    },
+    "Set days": {
+      "X": 1141,
+      "Y": 617
+    },
+    "Load network game": {
+      "X": 1064,
+      "Y": 676
+    },
+    "Load game OK": {
+      "X": 1174,
+      "Y": 841
+    },
+    "Host": {
+      "X": 1469,
+      "Y": 374
+    },
+    "Host log in yes": {
+      "X": 1029,
+      "Y": 613
+    },
+    "Finish": {
+      "X": 1849,
+      "Y": 64
+    },
+    "Anywhere": {
+      "X": 1423,
+      "Y": 78
+    },
+    "Scroll to top": {
+      "X": 1898,
+      "Y": 194
+    },
+    "Status name": {
+      "X": 71,
+      "Y": 189
+    }
+  }
+}
